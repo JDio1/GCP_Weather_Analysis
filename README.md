@@ -15,7 +15,7 @@ This project is a Weather Data Pipeline that fetches weather data from OpenWeath
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/weather-data-pipeline.git
+   git clone https://github.com/JDio1/GCP_Weather_Analysis.git
    cd weather-data-pipeline
 
 2. **Set Up Virtual Environment (Optional but recommended)**:
