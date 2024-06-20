@@ -3,6 +3,27 @@
 ## Project Overview
 This project is a Weather Data Pipeline that fetches weather data from OpenWeatherMap, processes the data, and loads it into Google BigQuery for analysis and visualization.
 
+This project demonstrates a data engineering pipeline built using Python and Google Cloud Platform (GCP) services. The pipeline fetches weather data from the OpenWeatherMap API, processes it, and stores it in Google Cloud Storage for further analysis and visualization. It is a great example of how to work with public APIs, handle data processing, and utilize cloud storage solutions.
+
+## Purpose
+
+The primary purpose of this project is to showcase a practical application of data engineering skills by building an end-to-end data pipeline. It provides a concrete example of how to automate the collection, processing, and storage of weather data using modern cloud technologies and Python programming.
+
+## Problem It Solves
+
+Weather data is crucial for various applications, including agriculture, disaster management, transportation, and daily life planning. However, accessing and processing this data efficiently can be challenging. This project solves the problem by automating the entire workflow:
+- **Data Collection**: Fetching real-time weather data from OpenWeatherMap API.
+- **Data Processing**: Parsing and structuring the raw data.
+- **Data Storage**: Storing the processed data in Google Cloud Storage for easy access and analysis.
+
+## Interesting Aspects
+
+- **API Integration**: Demonstrates how to integrate and fetch data from a third-party API (OpenWeatherMap).
+- **Cloud Storage**: Utilizes Google Cloud Storage to store and manage large datasets.
+- **Python Scripting**: Uses Python scripts to automate the data pipeline, showcasing efficient data handling and processing techniques.
+- **Environment Management**: Implements environment variables and `dotenv` for secure management of API keys and service account credentials.
+
+
 ## Setup Instructions
 
 ### Prerequisites
