@@ -23,6 +23,18 @@ Weather data is crucial for various applications, including agriculture, disaste
 - **Python Scripting**: Uses Python scripts to automate the data pipeline, showcasing efficient data handling and processing techniques.
 - **Environment Management**: Implements environment variables and `dotenv` for secure management of API keys and service account credentials.
 
+## Technologies Used
+
+- **Programming Language**: Python
+- **Cloud Platform**: Google Cloud Platform (GCP)
+- **Services**: Google Cloud Storage
+- **API**: OpenWeatherMap API
+- **Libraries**:
+  - `google-cloud-storage`: Google Cloud Storage client library
+  - `requests`: HTTP library for making API calls
+  - `python-dotenv`: For loading environment variables from a `.env` file
+  - `pandas`: For data manipulation and analysis
+  - `db-dtypes`: For handling database-specific data types in pandas
 
 ## Setup Instructions
 
